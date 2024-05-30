@@ -1,0 +1,11 @@
+{
+	"id": "minimal-smoothness",
+	"name": "Minimal Smoothness",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Demonstrates some of the capabilities of the Obsidian API.",
+	"author": "AsAlwaysImani",
+	"authorUrl": "https://asalwaysimani.com",
+	"fundingUrl": "https://ko-fi.com/asalwaysimani",
+	"isDesktopOnly": false
+}

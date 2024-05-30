@@ -1,0 +1,115 @@
+/**-----------------------------------------
+** ╋╋╋┏┓╋╋┏┓╋╋╋╋╋╋╋╋┏━┓╋╋╋╋╋╋┏┓┏┓╋╋╋╋╋┏━┳━┓
+** ┏━━╋╋━┳╋╋━━┳━┓┏┓╋┃━╋━━┳━┳━┫┗┫┗┳━┳┳━┫━┫━┫
+** ┃┃┃┃┃┃┃┃┃┃┃┃╋┗┫┗┓┣━┃┃┃┃╋┃╋┃┏┫┃┃┃┃┃┻╋━┣━┃
+** ┗┻┻┻┻┻━┻┻┻┻┻━━┻━┛┗━┻┻┻┻━┻━┻━┻┻┻┻━┻━┻━┻━┛
+**-----------------------------------------*/
+
+:root
+{
+    --font-size-normal:              16px;
+    --font-size-code:                16px;
+    --font-size-side-dock:           12px;
+    --font-size-side-dock-title:     16px;
+    --font-size-status-bar:          12px;
+    --font-size-h1:                  28px;
+    --font-size-h2:                  26px;
+    --font-size-h3:                  24px;
+    --font-size-h4:                  22px;
+    --font-size-h5:                  20px;
+    --font-size-h6:                  18px;
+    --font-family-editor:            Noto Sans Mono, monospace;
+    --font-family-preview:           Noto Sans Mono, monospace;
+}
+
+.theme-light,
+.theme-dark {
+    --background-primary: #2e153a;
+    --background-primary-alt: #5b2972;
+    --background-secondary: #2c273b;
+    --background-secondary-alt: #4e4569;
+
+    --background-accent: #4e4569;
+    --background-modifier-border: #4e4569;
+
+    --text-normal: #dabde8;
+    --text-accent: #893fad;
+    --text-sub-accent: #34034c;
+    --text-dim: #170b1e;
+    --text-faint: #170b1e;
+
+    --text-title-h1: #ff2da5;
+    --text-title-h2: #914bf5;
+    --text-title-h3: #fdff6c;
+    --text-title-h4: #ff9933;
+    --text-title-h5: #c6ff79;
+    --text-title-h6: #33ffff;
+
+    --text-link: #6f59c5;
+    --text-a: #7f21f9;
+    --text-a-hover: #7f21f9;
+    --text-mark: #263d92;
+
+    --code-background: var(--background-secondary);
+    --interactive-accent: #0ed2f780;
+    --interactive-accent-hover: #6805b3;
+    --interactive-before: #625e65;
+
+    --blockquote-border: #8405f3;
+    --tag-background: #6b0ef7c9;
+    --interactive-accent-rgb: #5200a4c7;
+
+    --bg-sub-accent-55: #f4569d8c;
+    --bg-accent-55: #0ed2f78c;
+    --bg-accent-25: #0ed2f740;
+    --text-highlight-bg: #f4569d40;
+
+    --table-border-color: #0ed2f726;
+    --test-color: #7aa2f7;
+    --editor-border-color: #101014;
+    --font-family-editor: "Noto Sans Mono", monospace;
+    --font-family-preview: "Noto Sans Mono", monospace;
+}
+
+
+/**
+** ╋╋╋╋╋╋╋╋╋┏┓╋╋╋╋╋┏┓
+** ┏━┳┳┳━┓┏━┫┗┓┏━┳━╋╋━┳┳┳┓┏━┳━┓┏━┳┳━┓
+** ┃╋┃┏┫╋┗┫╋┃┃┃┗┓┃┏┫┃┻┫┃┃┃┃╋┃╋┗┫┃┃┃┻┫
+** ┣┓┣┛┗━━┫┏┻┻┛╋┗━┛┗┻━┻━━┛┃┏┻━━┻┻━┻━┛
+** ┗━┛╋╋╋╋┗┛╋╋╋╋╋╋╋╋╋╋╋╋╋╋┗┛
+**/
+
+.workspace-leaf-content[data-type = "graph"] .view-content{
+    background-color: var(--background-primary);
+}
+
+/*filled color for the circle when not hover*/
+.graph-view.color-fill {
+    color: #153a2e;
+}
+
+  /*color for the circle stroke */
+.graph-view.color-circle {
+    color: #407229;
+}
+
+/*color for the connecting line when not hover*/
+.graph-view.color-line {
+    color: #9543ba;
+}
+
+/*color for texts*/
+.graph-view.color-text {
+    color: var(--text-graph);
+}
+
+/*filled color for the circle when hover*/
+.graph-view.color-fill-highlight {
+    color: #3a1521;
+}
+
+/*color for the connecting line when hover*/
+.graph-view.color-line-highlight {
+    color: #68ba43;
+}

@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "9d0cfcc9e24c4caa",
+    "type": "split",
+    "children": [
+      {
+        "id": "f09268f30b243cfd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1ede96a2aab678f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5056e2e56114e203",
+    "type": "split",
+    "children": [
+      {
+        "id": "a11205feecc7541f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ed0177906b994fe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cc57cf88b18e2138",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a2dc70194daed8a9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9a89d8fdf13b68ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac133f58f45be186",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02426bcbd33fc693",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "56033c1fefa5a8b4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4cc1911adee21e85",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c56ee3fc3528728c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c1ede96a2aab678f",
+  "lastOpenFiles": [
+    "obsidian-sample-plugin-master/versions.json",
+    "obsidian-sample-plugin-master/version-bump.mjs",
+    "obsidian-sample-plugin-master/tsconfig.json",
+    "obsidian-sample-plugin-master/styles.css",
+    "obsidian-sample-plugin-master/README.md",
+    "obsidian-sample-plugin-master/package.json",
+    "obsidian-sample-plugin-master/manifest.json",
+    "obsidian-sample-plugin-master/main.ts",
+    "obsidian-sample-plugin-master/esbuild.config.mjs",
+    "obsidian-sample-plugin-master",
+    "obsidian-sample-plugin-master.zip",
+    "Welcome.md"
+  ]
+}
