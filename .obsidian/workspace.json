@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "f09268f30b243cfd",
+        "id": "8b8859247935656f",
         "type": "tabs",
         "children": [
           {
-            "id": "c1ede96a2aab678f",
+            "id": "b89c237bab2bf590",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "9a89d8fdf13b68ad",
@@ -135,11 +135,22 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "minimal-smoothness:Minimal Smoothness Plugin": false
     }
   },
-  "active": "c1ede96a2aab678f",
+  "active": "b89c237bab2bf590",
   "lastOpenFiles": [
+    "docs/forReference.md",
+    "docs/forReferences.md",
+    "docs/pageCounter.md",
+    "docs/formatingInkle.md",
+    "docs/formatingFountain.md",
+    "docs/formatingFountain",
+    "docs/heatmap.md",
+    "docs/heatmap",
+    "docs/graphViewTags.md",
+    "README.md",
     "obsidian-sample-plugin-master/versions.json",
     "obsidian-sample-plugin-master/version-bump.mjs",
     "obsidian-sample-plugin-master/tsconfig.json",
@@ -149,8 +160,6 @@
     "obsidian-sample-plugin-master/manifest.json",
     "obsidian-sample-plugin-master/main.ts",
     "obsidian-sample-plugin-master/esbuild.config.mjs",
-    "obsidian-sample-plugin-master",
-    "obsidian-sample-plugin-master.zip",
     "Welcome.md"
   ]
 }
