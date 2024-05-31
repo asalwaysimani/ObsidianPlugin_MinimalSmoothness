@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0ca2f87d987daf98",
+        "id": "69a81bec276c0156",
         "type": "tabs",
         "children": [
           {
-            "id": "7e3a9571af7d2575",
+            "id": "bed3c7c372b31121",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -139,9 +139,14 @@
       "minimal-smoothness:Minimal Smoothness": false
     }
   },
-  "active": "7e3a9571af7d2575",
+  "active": "bed3c7c372b31121",
   "lastOpenFiles": [
+    "README.md",
+    "docs/writersToolbox 1.md",
+    "docs/formatingFountain 1.md",
     "CHANGELOG.md",
+    "docs/writersToolbox.md",
+    "docs/formatingInk.md",
     "docs/forReference.md",
     "docs/forReferences.md",
     "docs/pageCounter.md",
@@ -151,7 +156,6 @@
     "docs/heatmap.md",
     "docs/heatmap",
     "docs/graphViewTags.md",
-    "README.md",
     "obsidian-sample-plugin-master/versions.json",
     "obsidian-sample-plugin-master/version-bump.mjs",
     "obsidian-sample-plugin-master/tsconfig.json",

@@ -5,17 +5,32 @@ author: Imani
 
 ## About
 
-An in-the-works plugin for Obsidian adding functions geared towards managing creative writing projects but with more minute tech flair. Solving problems that I myself face when writing in Obsidian and adding features that I personally need.
+An in-the-works plugin for Obsidian adding functions geared towards managing creative writing projects but with more minute tech flair. Solving problems that I face when writing in Obsidian and adding features that I personally need.
 
 ## Features
 
-| Feature | Status | Milestone | Summary |
-| :-----: | :----: | :----: | :-----: |
-| Tags in Graph View |  |  |  |
-| Vault notes heatmap |  |  |  |
-| Formatting for Fountain |  |  |  |
-| Formatting for Inkle |  |  |  |
-| Page Counter |  |  |  |
+|         Feature         | Status | Milestone |              Summary              | Priority |
+| :---------------------: | :----: | :-------: | :-------------------------------: | :------: |
+|   Tags in Graph View    |   📑   |    0/3    |   [here](docs\graphViewTags.md)   |    🔥    |
+|   Vault notes heatmap   |   📑   |    0/4    |      [here](docs\heatmap.md)      |    🔥    |
+| Formatting for Fountain |   📑   |    0/3    | [here](docs\formatingFountain.md) |   🔥🔥   |
+|   Formatting for Ink    |   📑   |    0/3    |   [here](docs\formatingInk.md)    |   🔥🔥   |
+|     Writers Toolbox     |   📑   |    0/5    |  [here](docs\writersToolbox.md)   |  🔥🔥🔥  |
+
+Priority scale:
+
+🔥 - Low Priority
+🔥🔥 - Medium Priority
+🔥🔥🔥 - High Priority
+❗ - Highest Priority
+
+Statuses:
+
+📑 - Preproduction
+💻 - In Progress
+🗳️ - Testing
+⭐ - Completed
+💾 - On Hold
 
 ## Contact
 

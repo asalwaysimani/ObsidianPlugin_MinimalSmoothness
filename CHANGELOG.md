@@ -7,6 +7,8 @@ title: changelog
 ### Added
 
 - created a clone of the sample plugin from the obsidian.md git repo.
+- drafted a brief summary of what the plugin features will be
+- created milestone goals for each planned feature and its priority in the hierarchy
 
 ## Headings
 
