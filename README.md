@@ -19,17 +19,17 @@ An in-the-works plugin for Obsidian adding functions geared towards managing cre
 
 Priority scale:
 
-🔥 - Low Priority
-🔥🔥 - Medium Priority
-🔥🔥🔥 - High Priority
-❗ - Highest Priority
+🔥 - Low Priority  
+🔥🔥 - Medium Priority  
+🔥🔥🔥 - High Priority  
+❗ - Highest Priority  
 
 Statuses:
 
-📑 - Preproduction
-💻 - In Progress
-🗳️ - Testing
-⭐ - Completed
+📑 - Preproduction  
+💻 - In Progress  
+🗳️ - Testing  
+⭐ - Completed  
 💾 - On Hold
 
 ## Contact
