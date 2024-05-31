@@ -5,7 +5,7 @@ export default class MinimalSmoothnessPlugin extends Plugin {
 		new Notice('Minimal Smoothness Enabled');
 		
 		// This creates an icon in the left ribbon.
-		const ribbonIconEl = this.addRibbonIcon('pencil-line', 'Minimal Smoothness Plugin', (evt: MouseEvent) => {
+		const ribbonIconEl = this.addRibbonIcon('pencil-line', 'Minimal Smoothness', (evt: MouseEvent) => {
 			// Called when the user clicks the icon.
 			new Notice('lets get writing!');
 		});

@@ -45,5 +45,6 @@ data.json
 
 ## Ignored Files
 docs/forReference.md
+.obsidian/plugins/hot-reload-master
 
 # End of https://www.toptal.com/developers/gitignore/api/obsidian,visualstudiocode

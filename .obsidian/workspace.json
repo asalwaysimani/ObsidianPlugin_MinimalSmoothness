@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8b8859247935656f",
+        "id": "0ca2f87d987daf98",
         "type": "tabs",
         "children": [
           {
-            "id": "b89c237bab2bf590",
+            "id": "7e3a9571af7d2575",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -136,11 +136,12 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "minimal-smoothness:Minimal Smoothness Plugin": false
+      "minimal-smoothness:Minimal Smoothness": false
     }
   },
-  "active": "b89c237bab2bf590",
+  "active": "7e3a9571af7d2575",
   "lastOpenFiles": [
+    "CHANGELOG.md",
     "docs/forReference.md",
     "docs/forReferences.md",
     "docs/pageCounter.md",
